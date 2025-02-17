@@ -29,7 +29,7 @@ This project is a simple web-based terminal interface that simulates a secret lo
     cd not-so-secret-login
     ```
 
-3. Open [index.html](http://_vscodecontentref_/3) in your web browser to view the terminal interface.
+3. Open [index.html](index.html) in your web browser to view the terminal interface.
 
 ## Edit
    Change URL in [scripts.js](scripts.js) - default "#"
