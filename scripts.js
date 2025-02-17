@@ -93,5 +93,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
     });
 
     loginButton.addEventListener('click', () => {
-        window.location.href = '#
+        window.location.href = '#'
 });
