@@ -31,13 +31,27 @@ This project is a simple web-based terminal interface that simulates a secret lo
 
 3. Open [index.html](http://_vscodecontentref_/3) in your web browser to view the terminal interface.
 
+## Edit
+   Change URL in [scripts.js](scripts.js) - default "#"
+ ```sh
+ loginButton.addEventListener('click', () => {
+        window.location.href = '#'
+```
+Change Password in [scripts.js](scripts.js) - default "root"
+```sh
+ if (inputText === 'root') {
+                terminal.style.display = 'none';
+            }
+```
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
 
-© 2025 Jonas Mohr
+© 2025 jonasmore
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
