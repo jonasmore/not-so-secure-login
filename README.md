@@ -2,7 +2,7 @@
 
 <img width="2208" alt="secret-login" src="https://github.com/user-attachments/assets/36a2e9cc-daea-4956-b836-dc6c5ae9851f" />
 
-This project is a simple web-based terminal interface that simulates a secret login process. It includes HTML, CSS, and JavaScript files to create an interactive terminal experience.
+This project is a simple web-based terminal interface that simulates a secret login process. It includes HTML, CSS, and JavaScript files to create an interactive terminal experience. Try it out [here](https://not-so-secure-login.pages.dev). 
 
 ## Project Structure
 
